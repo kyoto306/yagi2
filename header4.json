@@ -1,0 +1,7 @@
+﻿{
+"name" : "往年のBMS難易度表",
+"symbol" : "BM",
+"data_url" : "https://kyoto306.github.io/yagi2/scorererere.json",
+"level_order" : ["00","01","02","03","04"]
+
+}
